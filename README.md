@@ -5,13 +5,16 @@
 - [x] Make a respository
 - [ ] Push solutions to GitHub
 
-Link to the challenges  website - https://cryptopals.com/
+Link to the challenges  website
+Cryptopals - https://cryptopals.com/
+Cryptohack - https://cryptohack.org/
 
 ### Purpose
-**This repositiory is primarily to store centrally my solutions for the challenges in Cryptopals and not to spoil the fun in self-exploration.**
+**This repositiory is primarily to store centrally my solutions for the Crypto and Security challenges and not to spoil the fun in self-exploration.**
 
 ### Status
 
-| Set No. | Challenge No. | Status |
-|  :---:  |     :---:     |  :---: |
-|  Set-1  |  Challenge-1  |   WIP  |
+| Challenge Site | Status |
+|  :---:  |  :---: |
+| Cryptohack |   WIP  |
+| Cryptopals |   WIP  |
