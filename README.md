@@ -1,4 +1,4 @@
-# Cryptopals
+# Crypto-Challenges
 **Programming Language used:** *Python 3*
 
 ### Todo
